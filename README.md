@@ -2,8 +2,6 @@
 
 Public privacy policy and terms of service for the Doney mobile app.
 
-**Doney** is created by **Anusha Pasala**, Founder & Developer.
-
 This repo contains only legal HTML pages — no app source code.
 
 ## Live URLs
